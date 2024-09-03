@@ -1,0 +1,53 @@
+{
+    // ---------- INTERNAS DE VSCODE ----------
+    // Para quitar la primera línea que indica donde estás en el fichero (no suele ser necesario y se gana espacio)
+    "breadcrumbs.enabled": false,
+    // Animación cursor
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    // Para cambiar etiquetas html de apertura o cierre a la vez
+    "editor.linkedEditing": true,
+    // Para colorear las llaves
+    "editor.guides.bracketPairs": true,
+    // Tamaño de letra
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.env.osx": {},
+    // autoguardado
+    "files.autoSave": "afterDelay",
+    // desactivar el minimap
+    "editor.minimap.enabled": false,
+    
+    // Instalar Cascadia Code y este ajuste setea la family font y las ligaduras
+    "editor.fontFamily": "'Cascadia Code PL', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    
+    // ---------- EXTENSIONES ----------
+    // One Dark Pro - biniryify
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "oneDarkPro.editorTheme": "One Dark Pro Darker",
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+
+    // Material Icon Theme - Philipp Kief
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Console Ninja - Wallaby.js
+    "console-ninja.featureSet": "Community",
+
+    // Error Lens - Alexander
+    // ESLint - Microsoft
+    // Prettier Code formatter - Prettier
+    // Git History - Don Jayamanne
+    // JSON Tools - Erik Lynd
+    // Live Share - Microsoft
+    // Markdown All in One - Yu Zhang
+    // Todo Tree - Gruntfuggly
+    // Turbo Console Log - Anas Chakroun
+
+    // ---- Para lenguajes de programación ----
+    // Dart - Dart Code
+    // Flutter - Dart Code
+    // Python - Microsoft
+    
+}
