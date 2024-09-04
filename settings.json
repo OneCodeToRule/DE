@@ -23,31 +23,32 @@
     "editor.fontLigatures": true,
     
     // ---------- EXTENSIONES ----------
+    // Error Lens - Alexander
+    // ESLint - Microsoft
+    // Git History - Don Jayamanne
+    // GitLens - GitKraken
+    // JSON Tools - Erik Lynd
+    // Live Share - Microsoft
+    // Markdown All in One - Yu Zhang
+    // Prettier Code formatter - Prettier
+    // SonarLint - SonarSource
+    // Todo Tree - Gruntfuggly
+    // Turbo Console Log - Anas Chakroun
+    
     // One Dark Pro - biniryify
     "workbench.colorTheme": "One Dark Pro Darker",
     "oneDarkPro.editorTheme": "One Dark Pro Darker",
     "oneDarkPro.bold": true,
     "oneDarkPro.vivid": true,
-
+    
     // Material Icon Theme - Philipp Kief
     "workbench.iconTheme": "material-icon-theme",
-
+    
     // Console Ninja - Wallaby.js
     // "console-ninja.featureSet": "Community",
-
-    // Error Lens - Alexander
-    // ESLint - Microsoft
-    // Prettier Code formatter - Prettier
-    // Git History - Don Jayamanne
-    // JSON Tools - Erik Lynd
-    // Live Share - Microsoft
-    // Markdown All in One - Yu Zhang
-    // Todo Tree - Gruntfuggly
-    // Turbo Console Log - Anas Chakroun
-
+    
     // ---- Para lenguajes de programación ----
     // Dart - Dart Code
     // Flutter - Dart Code
-    // Python - Microsoft
-    
+    // Python - Microsoft    
 }
