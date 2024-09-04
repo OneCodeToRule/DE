@@ -33,7 +33,7 @@
     "workbench.iconTheme": "material-icon-theme",
 
     // Console Ninja - Wallaby.js
-    "console-ninja.featureSet": "Community",
+    // "console-ninja.featureSet": "Community",
 
     // Error Lens - Alexander
     // ESLint - Microsoft
