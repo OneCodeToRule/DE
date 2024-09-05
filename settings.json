@@ -1,8 +1,11 @@
 {
     // ---------- INTERNAS DE VSCODE ----------
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
     // Para quitar la primera línea que indica donde estás en el fichero (no suele ser necesario y se gana espacio)
     "breadcrumbs.enabled": false,
     // Animación cursor
+    "editor.cursorWidth": 3,
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
     // Para cambiar etiquetas html de apertura o cierre a la vez
@@ -15,8 +18,6 @@
     "terminal.integrated.env.osx": {},
     // autoguardado
     "files.autoSave": "afterDelay",
-    // desactivar el minimap
-    "editor.minimap.enabled": false,
     
     // Instalar Cascadia Code y este ajuste setea la family font y las ligaduras
     "editor.fontFamily": "'Cascadia Code PL', Menlo, Monaco, 'Courier New', monospace",
