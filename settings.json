@@ -1,9 +1,15 @@
 {
     // ---------- INTERNAS DE VSCODE ----------
+    // aumentar el zoom
     "window.zoomLevel": 1,
+    // desactivar el minimap
     "editor.minimap.enabled": false,
+    // desactivar la pantalla de bienvenida al iniciar vscode
     "workbench.startupEditor": "none",
+    // desactivar la unión de carpetas en el explorer cuando no hay ficheros
     "explorer.compactFolders": false,
+    // indentación del explorer, default 8, para monitor 2K poner 16
+    "workbench.tree.indent": 16,
     // Para quitar la primera línea que indica donde estás en el fichero (no suele ser necesario y se gana espacio)
     "breadcrumbs.enabled": true,
     // Animación cursor
