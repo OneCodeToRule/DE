@@ -16,7 +16,7 @@
     "editor.guides.bracketPairs": true,
     // Tamaño de letra
     "editor.fontSize": 18,
-    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
     "terminal.integrated.env.osx": {},
     // autoguardado
     "files.autoSave": "afterDelay",
@@ -47,13 +47,13 @@
     
     // Material Icon Theme - Philipp Kief
     "workbench.iconTheme": "material-icon-theme",
-    "dart.flutterSdkPath": "/Users/miguel/Development/flutter",
-
+    
     // Console Ninja - Wallaby.js
     // "console-ninja.featureSet": "Community",
     
     // ---- Para lenguajes de programación ----
     // Dart - Dart Code
+    "dart.flutterSdkPath": "/Users/miguel/Development/flutter",
     // Flutter - Dart Code
     // Python - Microsoft    
 }
