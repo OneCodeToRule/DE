@@ -9,6 +9,7 @@ Escribe mensajes de commit claros y descriptivos que expliquen qué cambios se r
 - Encabezado: Breve y descriptivo, consta de dos partes, tipo de commit y descripción. Aquí si se desea se puede añadir también el número de la tarea de JIRA asociada para poder vincularlos automáticamente y que aparezcan los commit en la tarea. Tipos de encabezados:
   - feat: cuando se agrega una nueva característica o funcionalidad.
   - fix: cuando se corrige un error.
+  - refactor: cuando se refactoriza código sin añadir funcionalidad.
   - docs: cambios relacionados con la documentación del proyecto.
   - style: cambios de estilo en el código. (formato, espaciado, orden de importaciones…)
   - refactor: refactorización del código.
